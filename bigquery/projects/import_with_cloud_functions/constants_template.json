@@ -1,0 +1,7 @@
+{
+    "BUCKET": "gs://...",
+    "CSV_FILE": "my_file.csv",
+    "DATASET_ID": "my_dataset",
+    "TABLE_NAME": "my_table",
+    "SERVICE_ACCOUNT": "my-service-account@my-project.iam.gserviceaccount.com"
+}
