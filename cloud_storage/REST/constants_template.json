@@ -1,0 +1,10 @@
+{
+    "ASSET_NAME": "my-file.jpg",
+    "ASSET_SOURCE_PATH": "/home/my-file.jpg",
+    "BUCKET": "my-bucket",
+    "PATH_CREDENTIALS_FILE": "credentials.json",
+    "PROJECT_ID": "my-projekt",
+    "REGION": "us-west...",
+    "SERVICE_ACCOUNT": "my-service-account@my-project.iam.gserviceaccount.com",
+    "STORAGE_CLASS": "nearline"
+}
