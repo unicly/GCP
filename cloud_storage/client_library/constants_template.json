@@ -1,0 +1,8 @@
+{
+    "BUCKET": "bigquery-demo-bucket54621",
+    "ASSET": "dog.jpg",
+    "REGION": "europe-west3",
+    "STORAGE_CLASS": "nearline",
+    "PROJECT_ID": "unicly-projekt",
+    "PATH_CREDENTIALS_FILE": "/Users/macbook/Projekt/mac/gcp/credentials.json"
+}
