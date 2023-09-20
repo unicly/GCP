@@ -1,0 +1,6 @@
+SOURCE=/local_folder...
+FILENAME=my-file.jpg
+ASSET=$source/$filename
+BUCKET_NAME_CLEAN=my-bucket-name
+BUCKET_NAME=gs://$bucket_name_clean
+REGION=us-west...
