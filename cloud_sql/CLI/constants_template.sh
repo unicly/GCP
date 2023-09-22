@@ -1,0 +1,12 @@
+PROJECT_ID="my-projekt"
+REGION="us-west..."
+INSTANCE_NAME="my-sql-instance"
+DATABASE_VERSION="MYSQL_5_7"
+CPU=1
+MEMORY=4GB
+ROOT_PASSWORD=""
+
+BUCKET_NAME=gs://...
+SOURCE=local_filesystem...
+FILENAME=query.sql
+ASSET=$SOURCE/$FILENAME
