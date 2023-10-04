@@ -1,0 +1,4 @@
+pymysql
+google-cloud-bigquery
+google-cloud-storage
+cloud-sql-python-connector[pymysql]
