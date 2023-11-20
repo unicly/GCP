@@ -6,7 +6,7 @@ In this example data is exported from an external Hive into BigQuery.
 
 The Hive table is stored in a bucket on Google Storage.
 
-## Actions made by the script ```main.sh```
+## Actions made by the script `main.sh`
 
 - Activate API's
 - Create a Cloud Storage bucket and upload files
