@@ -1,0 +1,6 @@
+[
+    {"name": "ClientID", "type": "STRING", "mode": "NULLABLE"},
+    {"name": "Product", "type": "STRING", "mode": "NULLABLE"},
+    {"name": "Quantity", "type": "INTEGER", "mode": "NULLABLE"},
+    {"name": "Status", "type": "STRING", "mode": "NULLABLE"}
+]
